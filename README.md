@@ -1,2 +1,26 @@
-Last updated: 2026-09-03 17:22:35 WIB
-Last updated: 2026-09-03 17:56:51 WIB
+# Github-API
+
+
+
+## 📋 Overview
+
+This repository contains **12 files** and is built with the following technologies:
+
+HTML, CSS, JavaScript
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML, CSS, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-03 21:27:31 WIB*
