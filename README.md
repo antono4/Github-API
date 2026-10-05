@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/Github-API"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/Github-API-blue?logo=github"></a>
   <a href="https://antono4.github.io/Github-API/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-13-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-10-06 00:06:08 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-10-06 06:09:40 WIB-lightgrey">
 </p>
 
 ---
@@ -63,5 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-10-06 00:06:08 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
-Last updated: 2026-10-06 04:33:41 WIB
+<sub>README ini di-generate otomatis pada **2026-10-06 06:09:40 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
